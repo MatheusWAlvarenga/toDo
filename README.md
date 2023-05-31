@@ -17,6 +17,7 @@ ToDo is a web application for creating and managing tasks. It provides a user-fr
 
 ## Technologies Used
 
+- Vite: A fast build tool for JavaScript and TypeScript projects.
 - ReactJS: A JavaScript library for building user interfaces.
 - TypeScript: A typed superset of JavaScript that adds static typing to the language.
 - HTML: The standard markup language for creating web pages.
