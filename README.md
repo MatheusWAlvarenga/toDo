@@ -29,7 +29,7 @@ To get started with the ToDo web application, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/todo.git
+git clone https://github.com/MatheusWAlvarenga/toDo.git
 ```
 
 2. Navigate to the project directory:
@@ -93,5 +93,3 @@ If you would like to contribute to this project, please follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize this README to suit your project's needs. Add additional information about configuration, available scripts, testing, and more.
