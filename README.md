@@ -1,8 +1,10 @@
 <h1 align="center">ToDo</h1>
 
  <div align="center">
-<img width="700" alt="toDo" src="https://github.com/MatheusWAlvarenga/GeoMapX/assets/94935750/38162b6d-fdf5-4297-ac2c-486f57503a5c">
+<img width="500" alt="toDo" src="https://github.com/MatheusWAlvarenga/GeoMapX/assets/94935750/38162b6d-fdf5-4297-ac2c-486f57503a5c">
+<img width="130" alt="toDo-mobile" src="https://github.com/MatheusWAlvarenga/toDo/assets/94935750/b4631844-fe96-4e21-a0b4-142fd6da60e7">
 </div>
+
 
 ## Project Overview
 
